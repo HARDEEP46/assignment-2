@@ -1,0 +1,100 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+}
+
+.main-poster {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(9, 9, 9, 0.296),rgba(0, 0, 0, 0.534)) , url('../images/main-poster.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.h1{
+    height: 1000px;
+    width: 1000px;
+     text-align: center;
+     color: rgba(240, 248, 255, 0.703);
+     font-size: 30px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     word-spacing: 3px;
+     
+     float: left;
+}
+
+.logo-img{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+    text-align:start;
+}
+
+.logo-img img{
+    height: 50px;
+    width: 50px;
+}
+
+.text{
+    text-align: right;
+    float: right;
+    font-size: 25px;
+    word-spacing: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 5px;
+}
+.text-2{
+    font-size: 20px;
+    
+}
+
+.main-text{
+    color: white;
+    float: right;
+    margin-top: 150px;
+    margin-right: 200px;
+    letter-spacing: 7px;
+    font-size: 15px;
+}
+
+.cold-case{
+    float:center;
+    color: rgb(130, 27, 27);
+    letter-spacing: 20px;
+    font-size: 100px;
+    margin-top: 40px;
+    margin-left: 10px;
+    font-family: fantasy;
+}
+
+.sub-main{
+    margin-top: 50px;
+    font-size: 10px;
+   
+}
+
+.subsub-main{
+    width: 600px;
+    height: 50px;
+    font-size: 10px;
+    color: rgb(233, 225, 225);
+    float: right;
+    margin-top: 50px;
+    margin-left: 500px;
+    
+    padding-left: 100px;
+    letter-spacing: 2px;
+}
+
+.names-footer{
+    font-size: px;
+    color: rgb(231, 222, 222);
+    padding-top: 700px;
+    font-size: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
